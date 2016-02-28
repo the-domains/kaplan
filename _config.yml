@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.5118976233061403
   brandStrength: 0.375
   lightness: 0.4375
   brandColors:
-    - '#0D0C0D'
-    - '#42555B'
-    - '#91B5C6'
-    - '#D7F0F3'
-    - '#CF9177'
+    - '#01030F'
+    - '#033099'
+    - '#3052A3'
+    - '#FCFCFF'
+    - '#6F86BE'
   rhythmicContrast: 0.75
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: UA-7097791-2
   facebook: null
-name: Kaplan.tv
 favicon: null
+name: Kaplan.tv
 opengraph:
   image: null
   type: null
