@@ -1,29 +1,41 @@
-name: Kaplan.tv
-favicon: null
-layout_spectrum: 0.31517
-typography_spectrum: 0.64724
 title: Kaplan Marketing
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5118976233061403
+  brandStrength: 0.375
+  lightness: 0.4375
+  brandColors:
+    - '#0D0C0D'
+    - '#42555B'
+    - '#91B5C6'
+    - '#D7F0F3'
+    - '#CF9177'
+  rhythmicContrast: 0.75
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: UA-7097791-2
   facebook: null
-  twitter: null
+name: Kaplan.tv
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#030303'
-    - '#2b2e2b'
-    - '#53686b'
-    - '#84a4ae'
-    - '#abcbd3'
-  brandStrength: 0.375
-  lightness: 0.4375
-  saturation: 0.5118976233061403
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.64724
+layout_spectrum: 0.31517
