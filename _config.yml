@@ -1,6 +1,6 @@
 name: Kaplan.tv
 favicon: null
-layout_spectrum: 0.4916410769801587
+layout_spectrum: 0.31517
 typography_spectrum: 0.9519228253047913
 title: Kaplan Marketing
 cta:
@@ -22,7 +22,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.5631224636454135
+  brandStrength: 0.6875
   lightness: 0.980869750957936
   saturation: 0.5118976233061403
   rhythmicContrast: 0.9772716178558767
