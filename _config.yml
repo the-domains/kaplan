@@ -2,12 +2,13 @@ name: Kaplan.tv
 favicon: null
 layout_spectrum: 0.4916410769801587
 typography_spectrum: 0.9519228253047913
+title: Kaplan Marketing
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-7097791-2
   facebook: null
   twitter: null
 opengraph:
