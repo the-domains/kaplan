@@ -4,21 +4,18 @@
         <description><![CDATA[Kaplan Marketing]]></description>
         <link>http://kaplan.tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 18:43:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 18:44:40 GMT</lastBuildDate>
         <atom:link href="http://kaplan.tv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Giant-Landover adds Instacart, augmenting Peapod]]></title>
-            <description><![CDATA[<h1>Giant-Landover adds Instacart, augmenting Peapod</h1>]]></description>
+            <description><![CDATA[<article><h1>Giant-Landover adds Instacart, augmenting Peapod</h1><p> E-commerce grocery concierge Instacart launched service Tuesday in 
+Washington, D.C., in partnership with Ahold's Giant-Landover — a deal 
+the companies said would augment Giant's existing grocery delivery 
+business through sister company Peapod by providing a more immediate 
+e-fulfillment option.</p></article>]]></description>
             <link>http://kaplan.tv/giant-landover-adds-instacart-augmenting-peapod/index.html</link>
             <guid isPermaLink="false">a80ba3bb-4795-4932-aaa3-4bfa3d61e757</guid>
             <pubDate>Tue, 15 Mar 2016 18:43:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My next car?]]></title>
-            <description><![CDATA[<article><h1>My next car?</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a9e82a83c64751b4f74cdd859672b49709670c9.png"></article>]]></description>
-            <link>http://kaplan.tv/my-next-car/index.html</link>
-            <guid isPermaLink="false">c11ac015-79d6-4f72-84b5-214a45a0a1aa</guid>
-            <pubDate>Mon, 29 Feb 2016 13:53:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
