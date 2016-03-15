@@ -4,8 +4,15 @@
         <description><![CDATA[Kaplan Electronic Marketing]]></description>
         <link>http://kaplan.tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 19:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 19:25:52 GMT</lastBuildDate>
         <atom:link href="http://kaplan.tv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome Delhaize to Ahold!</p>]]></description>
+            <link>http://kaplan.tv/80ec81ea-4d3b-4d3b-8431-f9d0b80ea8d1/index.html</link>
+            <guid isPermaLink="false">80ec81ea-4d3b-4d3b-8431-f9d0b80ea8d1</guid>
+            <pubDate>Tue, 15 Mar 2016 19:25:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Giant-Landover adds Instacart, augmenting Peapod]]></title>
             <description><![CDATA[<article><h1>Giant-Landover adds Instacart, augmenting Peapod</h1><p> E-commerce grocery concierge Instacart launched service Tuesday in 
@@ -16,13 +23,6 @@ e-fulfillment option.</p></article>]]></description>
             <link>http://kaplan.tv/giant-landover-adds-instacart-augmenting-peapod/index.html</link>
             <guid isPermaLink="false">a80ba3bb-4795-4932-aaa3-4bfa3d61e757</guid>
             <pubDate>Tue, 15 Mar 2016 18:51:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome Delhaize to Ahold!</p>]]></description>
-            <link>http://kaplan.tv/80ec81ea-4d3b-4d3b-8431-f9d0b80ea8d1/index.html</link>
-            <guid isPermaLink="false">80ec81ea-4d3b-4d3b-8431-f9d0b80ea8d1</guid>
-            <pubDate>Tue, 15 Mar 2016 19:21:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
