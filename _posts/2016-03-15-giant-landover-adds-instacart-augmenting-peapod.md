@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "\_E-commerce grocery concierge Instacart\_launched service Tuesday in \nWashington, D.C., in partnership with Ahold's Giant-Landover — a deal \nthe companies said would augment Giant's existing grocery delivery \nbusiness through sister company Peapod by providing a more immediate \ne-fulfillment option."
-datePublished: '2016-03-15T18:49:01.313Z'
-dateModified: '2016-03-15T18:49:00.441Z'
+datePublished: '2016-03-15T18:50:09.214Z'
+dateModified: '2016-03-15T18:49:42.740Z'
 title: 'Giant-Landover adds Instacart, augmenting Peapod'
 author: []
 sourcePath: _posts/2016-03-15-giant-landover-adds-instacart-augmenting-peapod.md
@@ -22,8 +22,6 @@ url: giant-landover-adds-instacart-augmenting-peapod/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5177a537-fa70-46e5-a5be-5b7e19f2d399.jpg)
-
 # Giant-Landover adds Instacart, augmenting Peapod
 
 E-commerce grocery concierge Instacart launched service Tuesday in 
@@ -31,6 +29,7 @@ Washington, D.C., in partnership with Ahold's Giant-Landover --- a deal
 the companies said would augment Giant's existing grocery delivery 
 business through sister company Peapod by providing a more immediate 
 e-fulfillment option.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5177a537-fa70-46e5-a5be-5b7e19f2d399.jpg)
 
 Read More: 
 
